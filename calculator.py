@@ -1,3 +1,4 @@
+print('Привет, мой сосед!')
 lang = 'EN'
 lang_opt = input('Enter L to change language or other key to continue:  ')
 while lang_opt == 'l':
